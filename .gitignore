@@ -1,0 +1,7 @@
+# .gitignore file
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Other files to ignore (optional)
+*.pyc  # Compiled Python files
+__pycache__/  # Compiled Python files directory
